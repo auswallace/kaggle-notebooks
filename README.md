@@ -37,6 +37,21 @@ Wildlife conservation ML - identifying individual jaguars from camera trap image
 
 ---
 
+### The Instagram Behavioral Genome (Check this Out EDA)
+
+Deep dive into 3M+ synthetic Instagram user profiles analyzing digital habits, demographics, and behavioral patterns using advanced visualization techniques.
+
+**Techniques:** UMAP Embeddings, Hierarchical Clustering, Ridge Plots, Radar Profiles, Network Correlation Graphs
+
+| Visualization Highlights | |
+|---|---|
+| Ridge plots showing time allocation distributions | Hierarchically clustered correlation matrices |
+| Multi-panel demographic segmentation analysis | Happiness decile behavioral heatmaps |
+
+[View Full Notebook on Kaggle](https://www.kaggle.com/code/awallay/check-this-out-eda) | [GitHub](eda/check-this-out/check-this-out-eda.ipynb)
+
+---
+
 ## Exploratory Data Analysis
 
 | Notebook | Description | Kaggle |
@@ -49,7 +64,6 @@ Wildlife conservation ML - identifying individual jaguars from camera trap image
 | [Same Hours, Different Lives](eda/same-hours-different-lives/same-hours-different-lives-eda.ipynb) | Time usage comparison study | [View](https://www.kaggle.com/code/awallay/same-hours-different-lives-eda) |
 | [Ecommerce Dataset](eda/ecommerce-dataset/ecommerce-dataset-eda.ipynb) | Online shopping patterns | [View](https://www.kaggle.com/code/awallay/ecommerce-dataset-eda) |
 | [Alcohol & Academic Performance](eda/alcohol-consumption-grades/alcohol-consumption-and-average-grades.ipynb) | Consumption vs. grades correlation | [View](https://www.kaggle.com/code/awallay/alcohol-consumption-and-average-grades) |
-| [Check this Out EDA](eda/check-this-out/check-this-out-eda.ipynb) | Retail checkout analysis | [View](https://www.kaggle.com/code/awallay/check-this-out-eda) |
 
 ---
 
